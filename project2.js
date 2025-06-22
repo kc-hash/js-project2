@@ -43,8 +43,6 @@ function sumArray(arr) {
 function filterArray(arr, conditionFn) {
   return arr.filter(conditionFn);
 }
-// Exemple d'utilisation :
-// filterArray([5, 12, 18, 3], num => num > 10); // retourne [12, 18]
 
 // ==============================
 // ➗ Mathematical Functions
